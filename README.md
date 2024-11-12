@@ -25,7 +25,7 @@ The project consists of the following folders and files:
 
 - ## Documentation
 
-Refer to the FinancialSentimentReport.pdf for detailed documentation on:
+Refer to the InvoiceProcessingUiPathReport.pdf for detailed documentation on:
 
 - Project objectives
 - Implementation steps
