@@ -22,9 +22,10 @@ The project consists of the following folders and files:
 3. Open the Project: Launch UiPath Studio and open the InvoiceProcessingUiPath folder.
 4. Review Templates: Review and modify the invoice templates in the InvoiceTemplates folder as needed.
 5. Run the Process: Execute the workflows to automate the invoice processing.
-## Documentation
 
-Refer to the InvoiceProcessingUiPathReport.pdf for detailed documentation on:
+- ## Documentation
+
+Refer to the FinancialSentimentReport.pdf for detailed documentation on:
 
 - Project objectives
 - Implementation steps
